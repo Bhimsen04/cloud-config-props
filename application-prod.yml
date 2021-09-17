@@ -1,0 +1,4 @@
+channel :
+  source : youtube-custom - prod
+  name : John Wick - prod
+  url : https://cricbuzz.com - prod
